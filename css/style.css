@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(2, 247, 75);
+}
+
+.title {
+    color: brown;
+}
+
+.div[title] {
+    color: chocolate;
+}
+
+.less {
+    background-image: url(../img/Batman_LOGO_002.jpg);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 150px;
+    border: 2px purple outset;
+    border-radius: 4px 10px;
+}
+
+p {
+    border: 3px cadetblue outset;
+    border-radius: 4px 10px;
+}
